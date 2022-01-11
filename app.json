@@ -12,9 +12,9 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/AbirHasan2005/Pyro-FileStreamBot",
+  "repository": "https://github.com/Doctorstra/dads-file-to-link",
   "success_url": "/",
-  "logo": "https://telegra.ph/file/9d63060a06c6fc6def1da.png",
+  "logo": "https://telegra.ph/file/43d20b97d7d93da44788f.jpg",
   "website": "stream.wrench.gq",
   "env": {
       "ENV": {
