@@ -1,5 +1,5 @@
 {
-  "name": "Pyro-FileStreamBot",
+  "name": "dads-file-to-link",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web.",
   "keywords": [
       "telegram",
