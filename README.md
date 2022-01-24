@@ -143,9 +143,9 @@ DATABASE_URL=mongodb_uri
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
 
 ## Demo Bot:
-<a href="https://t.me/AH_File2Link_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/dads_links_file2_links_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
-[![Heroku Awake](https://github.com/AbirHasan2005/Pyro-FileStreamBot/actions/workflows/Alive.yml/badge.svg?event=status)](https://github.com/AbirHasan2005/Pyro-FileStreamBot/actions/workflows/Alive.yml)
+[![Heroku Awake](https://github.com/Doctorstra/dads-file-to-link/actions/workflows/Alive.yml/badge.svg?event=status)](https://github.com/Doctorstra/dads-file-to-link/actions/workflows/Alive.yml)
 
 ## Special Features:
 - Added Mongo Database Support!
