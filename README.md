@@ -1,16 +1,16 @@
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
-  <a href="https://github.com/AbirHasan2005/Pyro-FileStreamBot">
+  <a href="https://github.com/Doctorstra/dads-file-to-link">
     <img src="https://telegra.ph/file/43d20b97d7d93da44788f.jpg">
   </a>
   <p align="center">
     A Telegram bot to stream files to web
     <br />
-    <a href="https://telegram.dog/AH_File2Link_Bot"><strong>Demo Bot »</strong></a>
+    <a href="https://telegram.dog/Dads_links_file2_links_Bot"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/AbirHasan2005/Pyro-FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/Doctorstra/dads-file-to-link/issues">Report a Bug</a>
     |
-    <a href="https://github.com/AbirHasan2005/Pyro-FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/Doctorstra/dads-file-to-link/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/AbirHasan2005/Pyro-FileStreamBot">
+    <a href="https://github.com/Doctorstra/dads-file-to-link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -74,7 +74,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/AbirHasan2005/Pyro-FileStreamBot
+git clone https://github.com/Doctorstra/dads-file-to-link
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
