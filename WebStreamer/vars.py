@@ -20,11 +20,11 @@ class Var(object):
     NO_PORT = bool(getenv('NO_PORT', False))
     APP_NAME = None
     if 'DYNO' in environ:
-        ON_HEROKU = True
+        ON_RAILWAY = True
         APP_NAME = str(getenv('APP_NAME'))
     else:
         ON_HEROKU = False
-    FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU else APP_NAME+'.herokuapp.com'
+    FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_RAILWAY else APP_NAME+'.railway.com'
     DATABASE_URL = str(getenv('DATABASE_URL'))
     PING_INTERVAL = int(getenv('PING_INTERVAL', '500'))
     UPDATES_CHANNEL = str(getenv('UPDATES_CHANNEL', None))
